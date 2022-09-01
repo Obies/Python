@@ -1,0 +1,3 @@
+admin, adm1n
+kevin, kev1n
+maxala, xala

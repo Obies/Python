@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+kevin, Heading out, Heading out to play a game, 11 January 2022, 12 January 2022, No
+admin, Centre control, Centre control for admin, 11 January 2022, 12 January 2022, No
+kevin, Break, break down task, 11 January 2022, 12 January 2022, No
