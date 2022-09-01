@@ -6,7 +6,7 @@ student = input("Please enter your ID number: ")
 
 #Most efficient open method with is used
 #file is stored as a string to created file
-with open('reg_form.txt', 'w') as file:
+with open('class_attendance.txt', 'w') as file:
     file.write(str(no_of_students)+"\n")
 
 #for loop executes according to number of entered students and minus 1 as computer
